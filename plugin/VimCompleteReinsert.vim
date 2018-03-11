@@ -4,3 +4,7 @@
 " Last Modified: March 08, 2018
 
 " Config
+
+function! VimCompleteReinsert() abort
+   echom 'TODO'
+endfunction
