@@ -7,4 +7,5 @@
 
 function! VimCompleteReinsert() abort
    echom 'TODO'
+   " let final_menu += [{'word':item, 'menu':m_info, 'kind':kind}]
 endfunction
